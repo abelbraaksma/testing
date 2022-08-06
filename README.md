@@ -1,2 +1,2 @@
 # testing
-Just for testing the new rename feature
+Just for testing the new rename feature for branches.
